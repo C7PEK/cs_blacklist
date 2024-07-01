@@ -4,7 +4,7 @@
 
 # W Config.lua można dodać więcej Pojazdów/Itemów/Pedów.
 
-#Potrzebne Skrypty:
+# Potrzebne Skrypty:
 
 `ox_lib`
 
