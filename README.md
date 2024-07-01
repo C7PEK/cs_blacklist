@@ -2,7 +2,7 @@
 
 `Blacklista na Pojazdy/Itemy/Pedy `
 
-# W Config.lua można dodać więcej Pojazdów/Itemów/Pedów.
+``` W Config.lua można dodać więcej Pojazdów/Itemów/Pedów.```
 
 # Potrzebne Skrypty:
 
